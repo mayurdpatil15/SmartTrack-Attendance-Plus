@@ -1,7 +1,3 @@
- 
-//Prateek
-//www.prateeks.in
-
 #include <SPI.h>
 #include <Wire.h>
 #include <WiFiClient.h> 
